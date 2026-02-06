@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "ts0rw96f",
+    "link": "https://www.yad2.co.il/item/ts0rw96f",
+    "img_url": "https://img.yad2.co.il/Pic/202602/01/1_8/o/y2_1pa_010941_20260201105002.jpeg",
+    "price": 29500,
+    "year": 2015,
+    "hand": "יד שלישית",
+    "merchant": true,
+    "agency_name": "שרון קאר",
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 1.5 (103 כ״ס) [2014-2015]",
+    "city": null,
+    "area": "אזור צפון השרון"
+  },
+  {
+    "id": "ppq6ghfw",
+    "link": "https://www.yad2.co.il/item/ppq6ghfw",
+    "img_url": "https://img.yad2.co.il/Pic/202601/25/1_8/o/y2_1pa_010342_20260125184706.jpeg",
+    "price": 31000,
+    "year": 2015,
+    "hand": "יד שניה",
+    "merchant": true,
+    "agency_name": "רמי מוטורס",
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 1.5 (103 כ״ס) [2014-2015]",
+    "city": null,
+    "area": "אזור חדרה והסביבה"
+  },
+  {
+    "id": "52tktq12",
+    "link": "https://www.yad2.co.il/item/52tktq12",
+    "img_url": "https://img.yad2.co.il/Pic/202602/06/1_1/o/y2_1pa_010961_20260206083745.jpeg",
+    "price": 31200,
+    "year": 2015,
+    "hand": "יד שלישית",
+    "merchant": false,
+    "agency_name": null,
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 1.5 (103 כ״ס) [2014-2015]",
+    "city": null,
+    "area": "אזור אילת והערבה"
+  }
+]
