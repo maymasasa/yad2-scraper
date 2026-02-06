@@ -1,10 +1,10 @@
 {
-  "telegramApiToken": null,
-  "chatId": null,
+  "telegramApiToken": "8380513119:AAEdZwqx3yGapsvmagG4QIOuXAl5ZOZgO20",
+  "chatId": "879659284",
   "projects": [
     {
-      "topic": "",
-      "url": ""
+      "topic": "mazda_2",
+      "url": "https://www.yad2.co.il/vehicles/cars?manufacturer=27&model=10331&year=2015-2017&price=-1-32000&km=10000-160000&gearBox=102&priceOnly=1&imgOnly=1"
     }
   ]
 }
