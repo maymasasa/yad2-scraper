@@ -1,0 +1,32 @@
+[
+  {
+    "id": "v5osswnh",
+    "link": "https://www.yad2.co.il/item/v5osswnh",
+    "img_url": "https://img.yad2.co.il/Pic/202602/02/1_8/o/y2_1pa_010008_20260202052954.jpeg",
+    "price": 35000,
+    "year": 2015,
+    "hand": "יד ראשונה",
+    "km": 110000,
+    "merchant": true,
+    "agency_name": "מותגים מיד ראשונה",
+    "model": "יאריס",
+    "sub_model": "Style אוט׳ 1.3 (99 כ״ס) [2014-2017]",
+    "city": null,
+    "area": "אזור הקריות"
+  },
+  {
+    "id": "5oksp8et",
+    "link": "https://www.yad2.co.il/item/5oksp8et",
+    "img_url": "https://img.yad2.co.il/Pic/202602/07/1_1/o/y2_1pa_010932_20260207123240.jpeg",
+    "price": 40000,
+    "year": 2015,
+    "hand": "יד שלישית",
+    "km": 89000,
+    "merchant": false,
+    "agency_name": null,
+    "model": "יאריס",
+    "sub_model": "Sky אוט׳ 1.3 (99 כ״ס)",
+    "city": null,
+    "area": "אזור עכו נהריה והסביבה"
+  }
+]

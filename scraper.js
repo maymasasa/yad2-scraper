@@ -16,27 +16,52 @@ const extractJsonData = ($) => {
     }
 }
 
-const scrapeItems = async (url) => {
-    const getYad2Response = async (url) => {
-        const requestOptions = {
-            method: 'GET',
-            headers: {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-            },
-            redirect: 'follow'
-        };
-        try {
-            const res = await fetch(url, requestOptions)
-            return await res.text()
-        } catch (err) {
-            console.log(err)
-        }
+const getYad2Response = async (url) => {
+    const requestOptions = {
+        method: 'GET',
+        headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        },
+        redirect: 'follow'
+    };
+    try {
+        const res = await fetch(url, requestOptions)
+        return await res.text()
+    } catch (err) {
+        console.log(err)
     }
+}
 
+const getItemPageData = async (itemId) => {
+    const url = `https://www.yad2.co.il/item/${itemId}`;
+    try {
+        const html = await getYad2Response(url);
+        if (!html) return null;
+
+        const $ = cheerio.load(html);
+        const data = extractJsonData($);
+
+        if (data?.props?.pageProps?.dehydratedState?.queries) {
+            const query = data.props.pageProps.dehydratedState.queries.find(q =>
+                Array.isArray(q.queryKey) &&
+                q.queryKey.includes('item') &&
+                q.queryKey.includes(itemId)
+            );
+            return query?.state?.data || null;
+        }
+        return null;
+    } catch (e) {
+        console.error(`Failed to get item data for ${itemId}`, e);
+        return null;
+    }
+}
+
+const scrapeItems = async (url) => {
     const yad2Html = await getYad2Response(url);
     if (!yad2Html) {
         throw new Error("Could not get Yad2 response");
     }
+
 
     const $ = cheerio.load(yad2Html);
     const title = $("title").first().text();
@@ -109,12 +134,20 @@ const checkIfHasNewItem = async (currentItems, topic) => {
     const newItems = [];
     const allItemsToSave = [...savedItems];
 
-    currentItems.forEach(item => {
+    for (const item of currentItems) {
         if (!savedIds.has(item.id)) {
+            // Fetch additional details (mileage) for the new item
+            console.log(`Fetching details for new item: ${item.id}`);
+            const itemData = await getItemPageData(item.id);
+            if (itemData && itemData.km) {
+                item.km = itemData.km;
+            }
+
             newItems.push(item);
             allItemsToSave.push(item);
         }
-    });
+    }
+
 
     if (newItems.length > 0) {
         const updatedContent = JSON.stringify(allItemsToSave, null, 2);
