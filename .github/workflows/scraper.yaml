@@ -37,5 +37,6 @@ jobs:
             git add .
             DATE=$(date +"%F, %H:%M:%S")
             git commit -m "updated data - $DATE"
+            git pull --rebase origin main
             git push
           fi
