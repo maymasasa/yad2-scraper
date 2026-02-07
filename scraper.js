@@ -150,12 +150,12 @@ const scrape = async (topic, url) => {
     const telenode = new Telenode({ apiToken })
 
     try {
-        await telenode.sendTextMessage(`Starting scanning ${topic}...`, chatId)
+
         const items = await scrapeItems(url);
         const newItems = await checkIfHasNewItem(items, topic);
 
         if (newItems.length > 0) {
-            await telenode.sendTextMessage(`Found ${newItems.length} new items!`, chatId);
+
 
             for (const item of newItems) {
                 const merchantText = item.merchant ? `🏢 סוחר (${item.agency_name || 'לא צוין'})` : `👤 פרטי`;
@@ -184,8 +184,6 @@ ${merchantText}
                     await telenode.sendTextMessage(caption, chatId, { parse_mode: 'Markdown' });
                 }
             }
-        } else {
-            await telenode.sendTextMessage("No new items were added", chatId);
         }
     } catch (e) {
         let errMsg = e?.message || "";

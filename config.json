@@ -5,6 +5,22 @@
     {
       "topic": "mazda_2",
       "url": "https://www.yad2.co.il/vehicles/cars?manufacturer=27&model=10331&year=2015-2017&price=-1-32000&km=10000-160000&gearBox=102&priceOnly=1&imgOnly=1"
+    },
+    {
+      "topic": "hyundai_i20",
+      "url": "https://www.yad2.co.il/vehicles/cars?manufacturer=21&model=10273&year=2015--1&price=10000-40000&km=10000-140000&imgOnly=1"
+    },
+    {
+      "topic": "yaris",
+      "url": "https://www.yad2.co.il/vehicles/cars?manufacturer=19&model=10247&year=2015--1&price=10000-40000&km=10000-140000&imgOnly=1"
+    },
+    {
+      "topic": "chevrolet_spark",
+      "url": "https://www.yad2.co.il/vehicles/cars?manufacturer=52&model=10796&year=2018--1&price=10000-40000&km=10000-90000&imgOnly=1"
+    },
+    {
+      "topic": "golf",
+      "url": "https://www.yad2.co.il/vehicles/cars?manufacturer=41&model=10562,10571&year=2016--1&price=10000-40000&km=10000-120000&gearBox=102&imgOnly=1"
     }
   ]
 }
