@@ -28,5 +28,20 @@
     "sub_model": "LT אוט׳ 1.4 (98 כ״ס)",
     "city": null,
     "area": "אזור עכו נהריה והסביבה"
+  },
+  {
+    "id": "b1n5ype8",
+    "link": "https://www.yad2.co.il/item/b1n5ype8",
+    "img_url": "https://img.yad2.co.il/Pic/202602/08/1_8/o/y2_1pa_010973_20260208133324.jpeg",
+    "price": 12345,
+    "year": 2020,
+    "hand": "יד שלישית",
+    "km": 75000,
+    "merchant": true,
+    "agency_name": "א א שירותי רכב",
+    "model": "ספארק",
+    "sub_model": "LT Plus אוט׳ 1.4 (98 כ״ס) [2016-2026]",
+    "city": null,
+    "area": "אזור צפון השרון"
   }
 ]
