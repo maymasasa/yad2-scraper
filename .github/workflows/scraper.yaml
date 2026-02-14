@@ -10,6 +10,7 @@ on:
 jobs:
   scraper:
     runs-on: ubuntu-latest
+    environment: prod
     permissions:
       contents: write
     steps:
