@@ -163,7 +163,7 @@ const createPushFlagForWorkflow = () => {
 
 const sendTelegramPhoto = async (photoUrl, caption, chatId, apiToken) => {
     const url = `https://api.telegram.org/bot${apiToken}/sendPhoto`;
-    await fetch(url, {
+    const response = await fetch(url, {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
@@ -175,6 +175,15 @@ const sendTelegramPhoto = async (photoUrl, caption, chatId, apiToken) => {
             parse_mode: 'Markdown'
         })
     });
+
+    if (!response.ok) {
+        try {
+            const errorData = await response.json();
+            throw new Error(`Telegram API Error: ${response.status} ${response.statusText} - ${errorData.description}`);
+        } catch (e) {
+            throw new Error(`Telegram API Error: ${response.status} ${response.statusText}`);
+        }
+    }
 }
 
 const scrape = async (topic, url) => {
