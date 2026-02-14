@@ -187,8 +187,12 @@ const sendTelegramPhoto = async (photoUrl, caption, chatId, apiToken) => {
 }
 
 const scrape = async (topic, url) => {
+    console.log("Starting scrape function (Version: Debug Checks Enabled)");
     const apiToken = process.env.API_TOKEN || config.telegramApiToken;
     const chatId = process.env.CHAT_ID || config.chatId;
+
+    console.log(`API_TOKEN present: ${!!apiToken}`);
+    console.log(`CHAT_ID present: ${!!chatId}`);
 
     if (!apiToken || !chatId) {
         throw new Error("Missing API_TOKEN or CHAT_ID. Please set them in .env file or configuration.");
