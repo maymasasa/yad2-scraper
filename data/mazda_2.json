@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "ppq6ghfw",
+    "link": "https://www.yad2.co.il/item/ppq6ghfw",
+    "img_url": "https://img.yad2.co.il/Pic/202601/25/1_8/o/y2_1pa_010342_20260125184706.jpeg",
+    "price": 31000,
+    "year": 2015,
+    "hand": "יד שניה",
+    "km": 133000,
+    "merchant": true,
+    "agency_name": "רמי מוטורס",
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 1.5 (103 כ״ס) [2014-2015]",
+    "city": null,
+    "area": "אזור חדרה והסביבה"
+  },
+  {
+    "id": "cvo76e0r",
+    "link": "https://www.yad2.co.il/item/cvo76e0r",
+    "img_url": "https://img.yad2.co.il/Pic/202602/12/1_8/o/y2_1pa_010670_20260212104432.jpeg",
+    "price": 31999,
+    "year": 2015,
+    "hand": "יד שניה",
+    "km": 140000,
+    "merchant": true,
+    "agency_name": "אושרי קאר",
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 1.5 (103 כ״ס) [2014-2015]",
+    "city": null,
+    "area": "אזור חיפה והסביבה"
+  }
+]

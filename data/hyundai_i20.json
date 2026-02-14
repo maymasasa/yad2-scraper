@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "n4dl8muq",
+    "link": "https://www.yad2.co.il/item/n4dl8muq",
+    "img_url": "https://img.yad2.co.il/Pic/202602/09/1_8/o/y2_1pa_010938_20260209103358.jpeg",
+    "price": 36000,
+    "year": 2017,
+    "hand": "יד ראשונה",
+    "km": 112000,
+    "merchant": true,
+    "agency_name": "חי רכבים",
+    "model": "i20",
+    "sub_model": "Inspire אוט׳ 1.4 (100 כ״ס)",
+    "city": null,
+    "area": "אזור צפון השרון"
+  },
+  {
+    "id": "e11ij7ss",
+    "link": "https://www.yad2.co.il/item/e11ij7ss",
+    "img_url": "https://img.yad2.co.il/Pic/202602/08/1_8/o/y2_1pa_010345_20260208132135.jpeg",
+    "price": 39000,
+    "year": 2016,
+    "hand": "יד שניה",
+    "km": 122000,
+    "merchant": true,
+    "agency_name": "גדי קאר",
+    "model": "i20",
+    "sub_model": "Inspire אוט׳ 1.4 (100 כ״ס)",
+    "city": null,
+    "area": "אזור השפלה"
+  },
+  {
+    "id": "d0vc86ic",
+    "link": "https://www.yad2.co.il/item/d0vc86ic",
+    "img_url": "https://img.yad2.co.il/Pic/202602/12/1_1/o/y2_1pa_010649_20260212120011.jpeg",
+    "price": 27000,
+    "year": 2016,
+    "hand": "יד שניה",
+    "km": 118000,
+    "merchant": false,
+    "agency_name": null,
+    "model": "i20",
+    "sub_model": "Insight ידני 1.2 (85 כ״ס) [2015-2018]",
+    "city": null,
+    "area": "אזור באר שבע והסביבה"
+  },
+  {
+    "id": "bzscslov",
+    "link": "https://www.yad2.co.il/item/bzscslov",
+    "img_url": "https://img.yad2.co.il/Pic/202601/31/1_1/o/y2_1pa_010260_20260131190131.jpeg",
+    "price": 38500,
+    "year": 2017,
+    "hand": "יד שניה",
+    "km": 118000,
+    "merchant": false,
+    "agency_name": null,
+    "model": "i20",
+    "sub_model": "Inspire אוט׳ 1.4 (100 כ״ס)",
+    "city": null,
+    "area": "אזור רמת השרון והרצליה"
+  }
+]

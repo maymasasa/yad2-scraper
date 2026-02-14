@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "9zk5e23d",
+    "link": "https://www.yad2.co.il/item/9zk5e23d",
+    "img_url": "https://img.yad2.co.il/Pic/202601/28/1_8/o/y2_1pa_010018_20260128142408.jpeg",
+    "price": 40000,
+    "year": 2020,
+    "hand": "יד שניה",
+    "km": 90000,
+    "merchant": true,
+    "agency_name": "יאן רכבים",
+    "model": "ספארק",
+    "sub_model": "LT Plus אוט׳ 1.4 (98 כ״ס) [2016-2026]",
+    "city": null,
+    "area": "אזור חולון ובת ים"
+  },
+  {
+    "id": "hqje1yxv",
+    "link": "https://www.yad2.co.il/item/hqje1yxv",
+    "img_url": "https://img.yad2.co.il/Pic/202512/10/1_8/o/y2_1pa_010063_20251210155511.jpeg",
+    "price": 35000,
+    "year": 2020,
+    "hand": "יד שלישית",
+    "km": 90000,
+    "merchant": true,
+    "agency_name": "לוין מוטורס",
+    "model": "ספארק",
+    "sub_model": "LT Plus אוט׳ 1.4 (98 כ״ס) [2016-2026]",
+    "city": null,
+    "area": "אזור אריאל וישובי יהודה"
+  },
+  {
+    "id": "b1n5ype8",
+    "link": "https://www.yad2.co.il/item/b1n5ype8",
+    "img_url": "https://img.yad2.co.il/Pic/202602/08/1_8/o/y2_1pa_010973_20260208133324.jpeg",
+    "price": 39999,
+    "year": 2020,
+    "hand": "יד שלישית",
+    "km": 75000,
+    "merchant": true,
+    "agency_name": "א א שירותי רכב",
+    "model": "ספארק",
+    "sub_model": "LT Plus אוט׳ 1.4 (98 כ״ס) [2016-2026]",
+    "city": null,
+    "area": "אזור צפון השרון"
+  },
+  {
+    "id": "jqe6om7r",
+    "link": "https://www.yad2.co.il/item/jqe6om7r",
+    "img_url": "https://img.yad2.co.il/Pic/202601/17/1_1/o/y2_1pa_010745_20260117154710.jpeg",
+    "price": 35000,
+    "year": 2018,
+    "hand": "יד רביעית",
+    "km": 73500,
+    "merchant": false,
+    "agency_name": null,
+    "model": "ספארק",
+    "sub_model": "LT אוט׳ 1.4 (98 כ״ס)",
+    "city": null,
+    "area": "אזור עכו נהריה והסביבה"
+  }
+]
