@@ -189,6 +189,11 @@ const sendTelegramPhoto = async (photoUrl, caption, chatId, apiToken) => {
 const scrape = async (topic, url) => {
     const apiToken = process.env.API_TOKEN || config.telegramApiToken;
     const chatId = process.env.CHAT_ID || config.chatId;
+
+    if (!apiToken || !chatId) {
+        throw new Error("Missing API_TOKEN or CHAT_ID. Please set them in .env file or configuration.");
+    }
+
     const telenode = new Telenode({ apiToken })
 
     try {
