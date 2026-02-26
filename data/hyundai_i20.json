@@ -178,5 +178,20 @@
     "sub_model": "Insight ידני 1.2 (85 כ״ס) [2015-2018]",
     "city": null,
     "area": "אזור נתניה והסביבה"
+  },
+  {
+    "id": "9p3i2oof",
+    "link": "https://www.yad2.co.il/item/9p3i2oof",
+    "img_url": "https://img.yad2.co.il/Pic/202602/26/1_8/o/y2_1pa_010204_20260226182206.jpeg",
+    "price": 39000,
+    "year": 2018,
+    "hand": "יד שלישית",
+    "km": 134000,
+    "merchant": true,
+    "agency_name": "שלמה סיקסט פתח תקווה מרכז",
+    "model": "i20",
+    "sub_model": "Inspire אוט׳ 1.4 (100 כ״ס)",
+    "city": null,
+    "area": "פתח תקווה והסביבה"
   }
 ]
