@@ -2,7 +2,15 @@
   "projects": [
     {
       "topic": "mazda_2",
-      "url": "https://www.yad2.co.il/vehicles/cars?manufacturer=27&model=10331&year=2015-2017&price=-1-32000&km=10000-160000&gearBox=102&priceOnly=1&imgOnly=1"
+      "url": "https://www.yad2.co.il/vehicles/cars?manufacturer=27&model=10331&year=2017-2023&price=10000-75000&km=-1-120000"
+    },
+    {
+      "topic": "mazda_cx3",
+      "url": "https://www.yad2.co.il/vehicles/cars?manufacturer=27&model=10340&year=2017-2023&price=10000-75000&km=-1-120000"
+    },
+    {
+      "topic": "volvo_v40",
+      "url": "https://www.yad2.co.il/vehicles/cars?manufacturer=18&model=10207&price=10000-75000&km=-1-120000"
     },
     {
       "topic": "hyundai_i20",
