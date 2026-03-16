@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ya9ynr2w",
+    "link": "https://www.yad2.co.il/item/ya9ynr2w",
+    "img_url": "https://img.yad2.co.il/Pic/202601/28/1_3/o/y2_2pa_010575_20260128082632.jpeg",
+    "price": 65000,
+    "year": 2018,
+    "hand": "יד ראשונה",
+    "km": 70000,
+    "merchant": true,
+    "agency_name": "טופ רכב",
+    "model": "CX-3",
+    "sub_model": "Zoom אוט׳ 4 דל 2.0 (156 כ״ס)",
+    "city": null,
+    "area": "אזור נתניה והסביבה"
+  },
+  {
+    "id": "hv8i2823",
+    "link": "https://www.yad2.co.il/item/hv8i2823",
+    "img_url": "https://img.yad2.co.il/Pic/202603/11/1_3/o/y2_1pa_010250_20260311181931.jpeg",
+    "price": 70000,
+    "year": 2019,
+    "hand": "יד שניה",
+    "km": 107000,
+    "merchant": false,
+    "agency_name": null,
+    "model": "CX-3",
+    "sub_model": "Pure White אוט׳ 4 דל 2.0 (156 כ״ס)",
+    "city": null,
+    "area": "אזור נתניה והסביבה"
+  },
+  {
+    "id": "4ar2cpoz",
+    "link": "https://www.yad2.co.il/item/4ar2cpoz",
+    "img_url": "https://img.yad2.co.il/Pic/202602/16/1_3/o/y2_1pa_010038_20260216122344.jpeg",
+    "price": 63000,
+    "year": 2019,
+    "hand": "יד שלישית",
+    "km": 119000,
+    "merchant": false,
+    "agency_name": null,
+    "model": "CX-3",
+    "sub_model": "Zoom אוט׳ 2.0 (156 כ״ס) [2018-2021]",
+    "city": null,
+    "area": "אזור רמת השרון והרצליה"
+  }
+]
