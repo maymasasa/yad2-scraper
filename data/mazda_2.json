@@ -793,5 +793,35 @@
     "sub_model": "Dynamic אוט׳ 4 דל 1.5 (116 כ״ס)",
     "city": null,
     "area": "אזור חולון ובת ים"
+  },
+  {
+    "id": "h6zy26vi",
+    "link": "https://www.yad2.co.il/item/h6zy26vi",
+    "img_url": "https://img.yad2.co.il/Pic/202603/08/1_8/o/y2_1pa_010923_20260308110434.jpeg",
+    "price": 73000,
+    "year": 2023,
+    "hand": "יד שניה",
+    "km": 99000,
+    "merchant": true,
+    "agency_name": "רכב קליל",
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 4 דל 1.5 (116 כ״ס)",
+    "city": null,
+    "area": "אזור חיפה והסביבה"
+  },
+  {
+    "id": "4kq77d2i",
+    "link": "https://www.yad2.co.il/item/4kq77d2i",
+    "img_url": "https://img.yad2.co.il/Pic/202602/12/1_8/o/xml_1_9956584152_20260212120250.jpg",
+    "price": 73350,
+    "year": 2022,
+    "hand": "יד ראשונה",
+    "km": 97260,
+    "merchant": true,
+    "agency_name": "אלבר",
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 4 דל 1.5 (116 כ״ס)",
+    "city": null,
+    "area": "כל הארץ"
   }
 ]
