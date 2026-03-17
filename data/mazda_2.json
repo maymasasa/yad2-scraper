@@ -718,5 +718,20 @@
     "sub_model": "Dynamic אוט׳ 4 דל 1.5 (116 כ״ס)",
     "city": null,
     "area": "אזור רמת גן וגבעתיים"
+  },
+  {
+    "id": "l19zanlh",
+    "link": "https://www.yad2.co.il/item/l19zanlh",
+    "img_url": "https://img.yad2.co.il/Pic/202603/06/1_8/o/y2_7pa_010785_20260306093615.jpeg",
+    "price": 48000,
+    "year": 2017,
+    "hand": "יד שלישית",
+    "km": 117000,
+    "merchant": true,
+    "agency_name": "אביב מוטורס",
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 1.5 (112 כ״ס)",
+    "city": null,
+    "area": "אזור נתניה והסביבה"
   }
 ]
