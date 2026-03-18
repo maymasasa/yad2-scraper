@@ -58,5 +58,20 @@
     "sub_model": "Zoom אוט׳ 2.0 (156 כ״ס) [2018-2021]",
     "city": null,
     "area": "אזור קרית גת והסביבה"
+  },
+  {
+    "id": "ff6ezedi",
+    "link": "https://www.yad2.co.il/item/ff6ezedi",
+    "img_url": "https://img.yad2.co.il/Pic/202603/18/1_3/o/y2_1pa_010750_20260318144051.jpeg",
+    "price": 58000,
+    "year": 2017,
+    "hand": "יד רביעית",
+    "km": 103000,
+    "merchant": false,
+    "agency_name": null,
+    "model": "CX-3",
+    "sub_model": "Pure White אוט׳ 5 דל 2.0 (156 כ״ס) [2017-2017]",
+    "city": null,
+    "area": "אזור חיפה והסביבה"
   }
 ]
