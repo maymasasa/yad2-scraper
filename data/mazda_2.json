@@ -988,5 +988,20 @@
     "sub_model": "Dynamic אוט׳ 4 דל 1.5 (116 כ״ס)",
     "city": null,
     "area": "אזור נתניה והסביבה"
+  },
+  {
+    "id": "onbykag4",
+    "link": "https://www.yad2.co.il/item/onbykag4",
+    "img_url": "https://img.yad2.co.il/Pic/202602/18/1_8/o/y2_1pa_010713_20260218120245.jpeg",
+    "price": 67900,
+    "year": 2020,
+    "hand": "יד שלישית",
+    "km": 69000,
+    "merchant": true,
+    "agency_name": "אוטו אדיר",
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 1.5 (116 כ״ס) [2018-2020]",
+    "city": null,
+    "area": "אזור ראשון לציון והסביבה"
   }
 ]
