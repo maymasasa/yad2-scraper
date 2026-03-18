@@ -943,5 +943,35 @@
     "sub_model": "Sport אוט׳ 1.5 (116 כ״ס)",
     "city": null,
     "area": "אזור אשדוד, אשקלון והסביבה"
+  },
+  {
+    "id": "t56ve49k",
+    "link": "https://www.yad2.co.il/item/t56ve49k",
+    "img_url": "https://img.yad2.co.il/Pic/202603/18/1_8/o/y2_1pa_010280_20260318125106.jpeg",
+    "price": 64000,
+    "year": 2020,
+    "hand": "יד שניה",
+    "km": 96000,
+    "merchant": true,
+    "agency_name": "אוטו קאר סנטר 2005 בעמ",
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 1.5 (116 כ״ס) [2018-2020]",
+    "city": null,
+    "area": "אזור נס ציונה ורחובות"
+  },
+  {
+    "id": "cp5fy5tw",
+    "link": "https://www.yad2.co.il/item/cp5fy5tw",
+    "img_url": "https://img.yad2.co.il/Pic/202603/18/1_1/o/y2_1pa_010449_20260318144942.jpeg",
+    "price": 75000,
+    "year": 2019,
+    "hand": "יד שלישית",
+    "km": 69500,
+    "merchant": false,
+    "agency_name": null,
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 1.5 (116 כ״ס) [2018-2020]",
+    "city": null,
+    "area": "אזור ראשון לציון והסביבה"
   }
 ]
