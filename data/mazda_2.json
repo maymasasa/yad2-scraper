@@ -1048,5 +1048,35 @@
     "sub_model": "Dynamic אוט׳ 4 דל 1.5 (116 כ״ס)",
     "city": null,
     "area": "אזור באר שבע והסביבה"
+  },
+  {
+    "id": "zjvuzpg0",
+    "link": "https://www.yad2.co.il/item/zjvuzpg0",
+    "img_url": "https://img.yad2.co.il/Pic/202603/19/1_8/o/y2_1pa_010025_20260319142410.jpeg",
+    "price": 65900,
+    "year": 2019,
+    "hand": "יד שלישית",
+    "km": 72000,
+    "merchant": true,
+    "agency_name": "שמואל לוי - אוטו סיטי",
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 1.5 (116 כ״ס) [2018-2020]",
+    "city": null,
+    "area": "אזור ראשון לציון והסביבה"
+  },
+  {
+    "id": "cct15qjx",
+    "link": "https://www.yad2.co.il/item/cct15qjx",
+    "img_url": "https://img.yad2.co.il/Pic/202603/19/1_1/o/y2_1pa_010616_20260319141314.jpeg",
+    "price": 66000,
+    "year": 2019,
+    "hand": "יד שניה",
+    "km": 106000,
+    "merchant": false,
+    "agency_name": null,
+    "model": "2",
+    "sub_model": "Sport אוט׳ 1.5 (116 כ״ס)",
+    "city": null,
+    "area": "אזור אשדוד, אשקלון והסביבה"
   }
 ]
