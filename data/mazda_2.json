@@ -1093,5 +1093,20 @@
     "sub_model": "Dynamic אוט׳ 4 דל 1.5 (116 כ״ס)",
     "city": null,
     "area": "אזור רמת השרון והרצליה"
+  },
+  {
+    "id": "d4qs6g8g",
+    "link": "https://www.yad2.co.il/item/d4qs6g8g",
+    "img_url": "https://img.yad2.co.il/Pic/202603/20/1_1/o/y2_1pa_010945_20260320122545.jpeg",
+    "price": 65000,
+    "year": 2020,
+    "hand": "יד ראשונה",
+    "km": 110000,
+    "merchant": false,
+    "agency_name": null,
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 1.5 (116 כ״ס) [2018-2020]",
+    "city": null,
+    "area": "אזור צפון השרון"
   }
 ]
