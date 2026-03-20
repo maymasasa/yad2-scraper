@@ -1108,5 +1108,20 @@
     "sub_model": "Dynamic אוט׳ 1.5 (116 כ״ס) [2018-2020]",
     "city": null,
     "area": "אזור צפון השרון"
+  },
+  {
+    "id": "awfr9y2l",
+    "link": "https://www.yad2.co.il/item/awfr9y2l",
+    "img_url": "https://img.yad2.co.il/Pic/202603/20/1_1/o/y2_1pa_010859_20260320130031.jpeg",
+    "price": 63000,
+    "year": 2018,
+    "hand": "יד ראשונה",
+    "km": 90000,
+    "merchant": false,
+    "agency_name": null,
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 1.5 (112 כ״ס)",
+    "city": null,
+    "area": "אזור ראשון לציון והסביבה"
   }
 ]
