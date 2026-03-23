@@ -118,5 +118,20 @@
     "sub_model": "R-Design אוט׳ 2.0 (190 כ״ס) [2017-2019]",
     "city": null,
     "area": "אזור עכו נהריה והסביבה"
+  },
+  {
+    "id": "9j7xdf42",
+    "link": "https://www.yad2.co.il/item/9j7xdf42",
+    "img_url": "https://img.yad2.co.il/Pic/202603/23/1_1/o/y2_1pa_010891_20260323203526.jpeg",
+    "price": 75000,
+    "year": 2018,
+    "hand": "יד שניה",
+    "km": 81000,
+    "merchant": false,
+    "agency_name": null,
+    "model": "V40",
+    "sub_model": "Kinetic אוט׳ האצ'בק 2.0 (190 כ״ס) [2016-2019]",
+    "city": null,
+    "area": "אזור הקריות"
   }
 ]
