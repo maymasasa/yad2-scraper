@@ -1213,5 +1213,35 @@
     "sub_model": "Dynamic אוט׳ 4 דל 1.5 (116 כ״ס)",
     "city": null,
     "area": "בקעת אונו"
+  },
+  {
+    "id": "yvw2ewsy",
+    "link": "https://www.yad2.co.il/item/yvw2ewsy",
+    "img_url": "https://img.yad2.co.il/Pic/202603/24/1_8/o/y2_1pa_010196_20260324091541.jpeg",
+    "price": 72000,
+    "year": 2022,
+    "hand": "יד שניה",
+    "km": 99000,
+    "merchant": true,
+    "agency_name": "שלומי רכבים",
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 4 דל 1.5 (116 כ״ס)",
+    "city": null,
+    "area": "אזור זכרון יעקב וחוף הכרמל"
+  },
+  {
+    "id": "095nfhrt",
+    "link": "https://www.yad2.co.il/item/095nfhrt",
+    "img_url": "https://img.yad2.co.il/Pic/202602/02/1_1/o/y2_1pa_010507_20260202121635.jpeg",
+    "price": 70000,
+    "year": 2022,
+    "hand": "יד שלישית",
+    "km": 77000,
+    "merchant": false,
+    "agency_name": null,
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 4 דל 1.5 (116 כ״ס)",
+    "city": null,
+    "area": "אזור ראש העין והסביבה"
   }
 ]
