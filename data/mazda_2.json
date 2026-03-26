@@ -1363,5 +1363,20 @@
     "sub_model": "Active אוט׳ 1.5 (112 כ״ס)",
     "city": null,
     "area": "אזור זכרון יעקב וחוף הכרמל"
+  },
+  {
+    "id": "h3wv0q3c",
+    "link": "https://www.yad2.co.il/item/h3wv0q3c",
+    "img_url": "https://img.yad2.co.il/Pic/202603/26/1_1/o/y2_1pa_010100_20260326223705.jpeg",
+    "price": 72000,
+    "year": 2022,
+    "hand": "יד שלישית",
+    "km": 64000,
+    "merchant": false,
+    "agency_name": null,
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 4 דל 1.5 (116 כ״ס)",
+    "city": null,
+    "area": "אזור השפלה"
   }
 ]
