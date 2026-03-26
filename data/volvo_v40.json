@@ -133,5 +133,20 @@
     "sub_model": "Kinetic אוט׳ האצ'בק 2.0 (190 כ״ס) [2016-2019]",
     "city": null,
     "area": "אזור הקריות"
+  },
+  {
+    "id": "621wn4db",
+    "link": "https://www.yad2.co.il/item/621wn4db",
+    "img_url": "https://img.yad2.co.il/Pic/202603/26/1_8/o/y2_1pa_010584_20260326213458.jpeg",
+    "price": 26000,
+    "year": 2016,
+    "hand": "יד שניה",
+    "km": 107000,
+    "merchant": true,
+    "agency_name": "מיה קאר",
+    "model": "V40",
+    "sub_model": "Kinetic אוט׳ 1.6 (180 כ״ס)",
+    "city": null,
+    "area": "אזור באר שבע והסביבה"
   }
 ]
