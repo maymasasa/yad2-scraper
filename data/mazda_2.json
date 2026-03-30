@@ -1453,5 +1453,35 @@
     "sub_model": "Dynamic אוט׳ 1.5 (116 כ״ס) [2018-2020]",
     "city": null,
     "area": "אזור ראשון לציון והסביבה"
+  },
+  {
+    "id": "tgdruxk9",
+    "link": "https://www.yad2.co.il/item/tgdruxk9",
+    "img_url": "https://img.yad2.co.il/Pic/202602/24/1_8/o/xml_1_9956545123_20260224010218.jpg",
+    "price": 74476,
+    "year": 2023,
+    "hand": "יד ראשונה",
+    "km": 82308,
+    "merchant": true,
+    "agency_name": "אוטודיל",
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 4 דל 1.5 (116 כ״ס)",
+    "city": null,
+    "area": "כל הארץ"
+  },
+  {
+    "id": "vnafqgmq",
+    "link": "https://www.yad2.co.il/item/vnafqgmq",
+    "img_url": "https://img.yad2.co.il/Pic/202510/15/1_8/o/y2_1pa_010934_20251015114330.jpeg",
+    "price": 59000,
+    "year": 2023,
+    "hand": "יד ראשונה",
+    "km": 110000,
+    "merchant": true,
+    "agency_name": "סטייל מוטורס",
+    "model": "2",
+    "sub_model": "Dynamic אוט׳ 4 דל 1.5 (116 כ״ס)",
+    "city": null,
+    "area": "אזור הגליל העליון"
   }
 ]
