@@ -433,5 +433,20 @@
     "sub_model": "Insight ידני 1.2 (85 כ״ס) [2012-2015]",
     "city": null,
     "area": "אזור חדרה והסביבה"
+  },
+  {
+    "id": "t7vj73sg",
+    "link": "https://www.yad2.co.il/item/t7vj73sg",
+    "img_url": "https://img.yad2.co.il/Pic/202604/01/1_8/o/y2_1pa_010014_20260401022337.jpeg",
+    "price": 36900,
+    "year": 2016,
+    "hand": "יד שלישית",
+    "km": 137000,
+    "merchant": true,
+    "agency_name": "קשת סוכנויות",
+    "model": "i20",
+    "sub_model": "Inspire אוט׳ 1.4 (100 כ״ס)",
+    "city": null,
+    "area": "אזור חיפה והסביבה"
   }
 ]
