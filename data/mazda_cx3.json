@@ -133,5 +133,20 @@
     "sub_model": "Sport אוט׳ 2.0 (156 כ״ס)",
     "city": null,
     "area": "אזור נתניה והסביבה"
+  },
+  {
+    "id": "n2jiclfi",
+    "link": "https://www.yad2.co.il/item/n2jiclfi",
+    "img_url": "https://img.yad2.co.il/Pic/202604/01/1_3/o/y2_1pa_010910_20260401030420.jpeg",
+    "price": 74000,
+    "year": 2021,
+    "hand": "יד שניה",
+    "km": 103000,
+    "merchant": false,
+    "agency_name": null,
+    "model": "CX-3",
+    "sub_model": "Urban אוט׳ 1.5 (116 כ״ס)",
+    "city": null,
+    "area": "אזור ירושלים"
   }
 ]
