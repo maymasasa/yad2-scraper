@@ -105,34 +105,19 @@
     "area": "אזור אשדוד, אשקלון והסביבה"
   },
   {
-    "id": "7h5elfuv",
-    "link": "https://www.yad2.co.il/item/7h5elfuv",
-    "img_url": "https://img.yad2.co.il/Pic/202603/16/1_8/o/y2_1pa_010244_20260316183645.jpeg",
-    "price": 32000,
-    "year": 2016,
-    "hand": "יד שלישית",
-    "km": 107000,
-    "merchant": true,
-    "agency_name": "קאר פרימיום",
-    "model": "פולו ",
-    "sub_model": "Comfortline אוט׳ 1.2 (90 כ״ס)",
-    "city": null,
-    "area": "אזור חיפה והסביבה"
-  },
-  {
-    "id": "x9y45x3q",
-    "link": "https://www.yad2.co.il/item/x9y45x3q",
-    "img_url": "https://img.yad2.co.il/Pic/202603/19/1_8/o/y2_1pa_010569_20260319080450.jpeg",
-    "price": 36500,
+    "id": "n9lll8fc",
+    "link": "https://www.yad2.co.il/item/n9lll8fc",
+    "img_url": "https://img.yad2.co.il/Pic/202603/24/1_8/o/y2_1pa_010968_20260324174922.jpeg",
+    "price": 34900,
     "year": 2016,
     "hand": "יד שניה",
-    "km": 112000,
+    "km": 104000,
     "merchant": true,
-    "agency_name": "אביתר רכבים",
+    "agency_name": "רפאל Cars",
     "model": "פולו ",
     "sub_model": "Comfortline אוט׳ 1.2 (90 כ״ס)",
     "city": null,
-    "area": "אזור צפון השרון"
+    "area": "אזור ראשון לציון והסביבה"
   },
   {
     "id": "sr7zfk6r",
@@ -153,7 +138,7 @@
     "id": "ozlcf9pb",
     "link": "https://www.yad2.co.il/item/ozlcf9pb",
     "img_url": "https://img.yad2.co.il/Pic/202603/22/1_1/o/y2_1pa_010230_20260322121447.jpeg",
-    "price": 37800,
+    "price": 36000,
     "year": 2016,
     "hand": "יד שלישית",
     "km": 100000,
@@ -163,35 +148,5 @@
     "sub_model": "Comfortline אוט׳ 1.2 (90 כ״ס)",
     "city": null,
     "area": "אזור רעננה וכפר סבא"
-  },
-  {
-    "id": "n9lll8fc",
-    "link": "https://www.yad2.co.il/item/n9lll8fc",
-    "img_url": "https://img.yad2.co.il/Pic/202603/24/1_8/o/y2_1pa_010968_20260324174922.jpeg",
-    "price": 35900,
-    "year": 2016,
-    "hand": "יד שניה",
-    "km": 104000,
-    "merchant": true,
-    "agency_name": "רפאל Cars",
-    "model": "פולו ",
-    "sub_model": "Comfortline אוט׳ 1.2 (90 כ״ס)",
-    "city": null,
-    "area": "אזור ראשון לציון והסביבה"
-  },
-  {
-    "id": "zywulb6o",
-    "link": "https://www.yad2.co.il/item/zywulb6o",
-    "img_url": "https://img.yad2.co.il/Pic/202603/25/1_1/o/y2_1pa_010667_20260325144447.jpeg",
-    "price": 38000,
-    "year": 2017,
-    "hand": "יד ראשונה",
-    "km": 99000,
-    "merchant": false,
-    "agency_name": null,
-    "model": "פולו ",
-    "sub_model": "Comfortline אוט׳ 1.2 (90 כ״ס)",
-    "city": null,
-    "area": "אזור תל אביב יפו"
   }
 ]

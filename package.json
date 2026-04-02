@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^17.4.0",
     "telenode-js": "^1.1.5"
   }
 }

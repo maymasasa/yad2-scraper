@@ -315,51 +315,6 @@
     "area": "אזור השפלה"
   },
   {
-    "id": "hr1sfzku",
-    "link": "https://www.yad2.co.il/item/hr1sfzku",
-    "img_url": "https://img.yad2.co.il/Pic/202603/16/1_8/o/y2_1pa_010333_20260316182406.jpeg",
-    "price": 39000,
-    "year": 2018,
-    "hand": "יד שלישית",
-    "km": 134000,
-    "merchant": true,
-    "agency_name": "שלמה סיקסט פתח תקווה מרכז",
-    "model": "i20",
-    "sub_model": "Inspire אוט׳ 1.4 (100 כ״ס)",
-    "city": null,
-    "area": "פתח תקווה והסביבה"
-  },
-  {
-    "id": "h57feiif",
-    "link": "https://www.yad2.co.il/item/h57feiif",
-    "img_url": "https://img.yad2.co.il/Pic/202603/22/1_1/o/y2_1pa_010079_20260322195903.jpeg",
-    "price": 35000,
-    "year": 2017,
-    "hand": "יד שלישית",
-    "km": 138000,
-    "merchant": false,
-    "agency_name": null,
-    "model": "i20",
-    "sub_model": "Inspire אוט׳ 1.4 (100 כ״ס)",
-    "city": null,
-    "area": "אזור כרמיאל והסביבה"
-  },
-  {
-    "id": "mcoj9ral",
-    "link": "https://www.yad2.co.il/item/mcoj9ral",
-    "img_url": "https://img.yad2.co.il/Pic/202603/27/1_1/o/y2_1pa_010783_20260327104530.jpeg",
-    "price": 34000,
-    "year": 2015,
-    "hand": "יד שלישית",
-    "km": 112000,
-    "merchant": false,
-    "agency_name": null,
-    "model": "i20",
-    "sub_model": "Premium אוט׳ 1.4 (100 כ״ס)",
-    "city": null,
-    "area": "אזור חולון ובת ים"
-  },
-  {
     "id": "lv95huhr",
     "link": "https://www.yad2.co.il/item/lv95huhr",
     "img_url": "https://img.yad2.co.il/Pic/202603/29/1_8/o/y2_1pa_010953_20260329151033.jpeg",
@@ -375,34 +330,19 @@
     "area": "אזור השפלה"
   },
   {
-    "id": "peybkliq",
-    "link": "https://www.yad2.co.il/item/peybkliq",
-    "img_url": "https://img.yad2.co.il/Pic/202603/29/1_1/o/y2_1pa_010574_20260329203742.jpeg",
-    "price": 35000,
+    "id": "t7vj73sg",
+    "link": "https://www.yad2.co.il/item/t7vj73sg",
+    "img_url": "https://img.yad2.co.il/Pic/202604/01/1_8/o/y2_1pa_010014_20260401022337.jpeg",
+    "price": 36900,
     "year": 2016,
     "hand": "יד שלישית",
-    "km": 108000,
-    "merchant": false,
-    "agency_name": null,
+    "km": 137000,
+    "merchant": true,
+    "agency_name": "קשת סוכנויות",
     "model": "i20",
     "sub_model": "Inspire אוט׳ 1.4 (100 כ״ס)",
     "city": null,
-    "area": "אזור ראש העין והסביבה"
-  },
-  {
-    "id": "i3igvnya",
-    "link": "https://www.yad2.co.il/item/i3igvnya",
-    "img_url": "https://img.yad2.co.il/Pic/202603/30/1_1/o/y2_1pa_010531_20260330100052.jpeg",
-    "price": 33000,
-    "year": 2015,
-    "hand": "יד שלישית",
-    "km": 126000,
-    "merchant": false,
-    "agency_name": null,
-    "model": "i20",
-    "sub_model": "Premium אוט׳ 1.4 (100 כ״ס)",
-    "city": null,
-    "area": "אזור קיסריה והסביבה"
+    "area": "אזור חיפה והסביבה"
   },
   {
     "id": "c89ozvup",
@@ -433,20 +373,5 @@
     "sub_model": "Insight ידני 1.2 (85 כ״ס) [2012-2015]",
     "city": null,
     "area": "אזור חדרה והסביבה"
-  },
-  {
-    "id": "t7vj73sg",
-    "link": "https://www.yad2.co.il/item/t7vj73sg",
-    "img_url": "https://img.yad2.co.il/Pic/202604/01/1_8/o/y2_1pa_010014_20260401022337.jpeg",
-    "price": 36900,
-    "year": 2016,
-    "hand": "יד שלישית",
-    "km": 137000,
-    "merchant": true,
-    "agency_name": "קשת סוכנויות",
-    "model": "i20",
-    "sub_model": "Inspire אוט׳ 1.4 (100 כ״ס)",
-    "city": null,
-    "area": "אזור חיפה והסביבה"
   }
 ]
